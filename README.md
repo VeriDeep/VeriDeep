@@ -1,2 +1,1 @@
-# VeriDeep
-Analysis and Verification of Deep Learning
+# VeriDeep (Analysis and Verification of Deep Learning)
